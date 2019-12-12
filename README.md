@@ -32,3 +32,4 @@ ingilis dilində olsa da, digər dillərdə resursların də əlavəsi mümkünd
 * [Pydata tədbirlərinin arxivi](https://www.youtube.com/user/PyDataTV)
 * [Enthought arxivi](https://www.youtube.com/user/EnthoughtMedia)
 * [Stanford Pythona giriş kursu- payız 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+* [Reddit LearnPython komyunitisi](https://www.reddit.com/r/learnpython/)
